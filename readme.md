@@ -30,5 +30,5 @@ in console
 ![image](Assets/OAuth.png)  
 ⚠️Setting the Bot Permissions
 ## License
-DiscordJS-Template Using MIT License.  
+DiscordJS-Template
 &copy;roy2554
