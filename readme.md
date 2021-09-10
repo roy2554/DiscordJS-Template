@@ -29,6 +29,6 @@ in console
 ### I CANT USE SLASH COMMAND IN SERVER
 ![image](Assets/OAuth.png)  
 ⚠️Setting the Bot Permissions
-## License
+
 DiscordJS-Template
 &copy;roy2554
