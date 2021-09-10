@@ -5,6 +5,12 @@ $ npm install
 ```
 Type `npm install` to install Library.
 
+## How To Install
+Type
+```console
+$ git clone https://github.com/roy2554/DiscordJS-Template
+```
+
 ## How To Run
 Type
 ```console
