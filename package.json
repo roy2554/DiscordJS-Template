@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-template",
+  "version": "1.0.0",
+  "description": "discordjs-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy2554/DiscordJS-Template.git"
+  },
+  "author": "roy2554",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roy2554/DiscordJS-Template/issues"
+  },
+  "homepage": "https://github.com/roy2554/DiscordJS-Template#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "glob": "^7.1.7"
+  }
+}
